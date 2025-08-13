@@ -1,2 +1,22 @@
-# c-calculator
-A tiny project of text based calculator
+__Calculadora baseada em C__
+
+Um simples projeto para meus estudos, no qual não possui fins lucrativos.
+
+
+
+<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/e4e98b53-e8b4-4773-8bcf-ec70882d581a" />
+captura da tela inicial do programa (note que por ser um programa experimental, há alguns bugs nos textos)
+
+__*Pré Requisitos__
+
+Não há pré requisitos, pois esse pograma ja foi compilado de forma que o sistema já entende.
+
+
+__8Como usar__
+
+1° Insira o número correspondente à operação
+2° Insira o primeiro numero da operação
+3° Insira o segundo numero da operação
+4° Escolha "y" para repetir o programa e "n" para fechar o programa
+
+### Estrutura do projeto
