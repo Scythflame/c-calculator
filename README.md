@@ -4,7 +4,7 @@ Um simples projeto para meus estudos, no qual não possui fins lucrativos.
 
 
 
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/e4e98b53-e8b4-4773-8bcf-ec70882d581a" />
+![Program Example](assets/Program example.png)
 captura da tela inicial do programa (note que por ser um programa experimental, há alguns bugs nos textos)
 
 ## Pré Requisitos
