@@ -20,3 +20,15 @@ __8Como usar__
 4° Escolha "y" para repetir o programa e "n" para fechar o programa
 
 ### Estrutura do projeto
+
+```
+c-calculator/
+│── program
+│── C_calculator.exe
+│── README.md
+
+```
+
+## Licença  
+
+Este projeto está licenciado sob a GPL v3.0 License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
