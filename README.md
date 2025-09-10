@@ -1,15 +1,20 @@
 # Calculadora baseada em C
 
-Um simples projeto para meus estudos, no qual não possui fins lucrativos.
+Este é um projeto simples de calculadora desenvolvido em linguagem C com fins educacionais.  
+O programa permite realizar operações básicas como soma, subtração, multiplicação e divisão diretamente no terminal.
 
-
+Criado como parte dos meus estudos, este projeto não possui fins lucrativos e serve como uma introdução prática à lógica de programação em C
 
 ![Program Example](assets/Program%20example.png)
 captura da tela inicial do programa (note que por ser um programa experimental, há alguns bugs nos textos)
 
 ## Pré Requisitos
 
-Não há pré requisitos, pois esse pograma ja foi compilado de forma que o sistema já entende.
+Nenhum pré-requisito é necessário para rodar este programa.
+
+O executável (`C calculator.exe`) já está incluído no repositório e pode ser executado diretamente em sistemas Windows.
+
+> ⚠️ Observação: Este programa foi desenvolvido e testado apenas no Windows. Pode não funcionar corretamente em outros sistemas operacionais.
 
 
 ## Como usar
