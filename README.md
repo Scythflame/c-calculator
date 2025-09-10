@@ -19,7 +19,7 @@ Não há pré requisitos, pois esse pograma ja foi compilado de forma que o sist
 3° Insira o segundo numero da operação
 4° Escolha "y" para repetir o programa e "n" para fechar o programa
 
-### Estrutura do projeto
+## Estrutura do projeto
 
 ```
 c-calculator/
