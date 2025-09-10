@@ -30,9 +30,13 @@ Escolha "y" para repetir o programa e "n" para fechar o programa
 
 ```
 c-calculator/
-│── program
-│── C_calculator.exe
+│── C calculator.exe
 │── README.md
+│── assets/
+│   └── Program example.png
+│── program/
+│   └── C Calculator.exe
+│   └── main.c
 
 ```
 
