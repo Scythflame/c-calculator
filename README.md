@@ -5,6 +5,7 @@ O programa permite realizar operações básicas como soma, subtração, multipl
 
 Criado como parte dos meus estudos, este projeto não possui fins lucrativos e serve como uma introdução prática à lógica de programação em C
 
+## Demonstração
 ![Program Example](assets/Program%20example.png)
 captura da tela inicial do programa (note que por ser um programa experimental, há alguns bugs nos textos)
 
