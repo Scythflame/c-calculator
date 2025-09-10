@@ -14,10 +14,17 @@ Não há pré requisitos, pois esse pograma ja foi compilado de forma que o sist
 
 ## Como usar
 
-1° Insira o número correspondente à operação
-2° Insira o primeiro numero da operação
-3° Insira o segundo numero da operação
-4° Escolha "y" para repetir o programa e "n" para fechar o programa
+### 1° Escolha a operação
+Insira o número correspondente à operação, sendo 1, soma, 2, subtração, 3, multiplicação e 4, divisão.
+
+### 2° Primeiro núumero
+Insira o primeiro numero da operação
+
+### 3° Segundo número
+Insira o segundo numero da operação
+
+### 4° Repetir ou fecharo o programa
+Escolha "y" para repetir o programa e "n" para fechar o programa
 
 ## Estrutura do projeto
 
