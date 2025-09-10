@@ -1,4 +1,4 @@
-__Calculadora baseada em C__
+# Calculadora baseada em C
 
 Um simples projeto para meus estudos, no qual não possui fins lucrativos.
 
@@ -7,12 +7,12 @@ Um simples projeto para meus estudos, no qual não possui fins lucrativos.
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/e4e98b53-e8b4-4773-8bcf-ec70882d581a" />
 captura da tela inicial do programa (note que por ser um programa experimental, há alguns bugs nos textos)
 
-__*Pré Requisitos__
+## Pré Requisitos
 
 Não há pré requisitos, pois esse pograma ja foi compilado de forma que o sistema já entende.
 
 
-__8Como usar__
+## Como usar
 
 1° Insira o número correspondente à operação
 2° Insira o primeiro numero da operação
