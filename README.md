@@ -4,7 +4,7 @@ Um simples projeto para meus estudos, no qual não possui fins lucrativos.
 
 
 
-![Program_Example]("assets/Program example.png")
+![Program Example](assets/Program%20example.png)
 captura da tela inicial do programa (note que por ser um programa experimental, há alguns bugs nos textos)
 
 ## Pré Requisitos
